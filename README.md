@@ -1,7 +1,7 @@
 ![Banner](https://i.postimg.cc/mrvgPD4k/Blue-Dotted-Friendly-Corporate-Corporate-X-Frame-Banner-2.png)
-
 :paperclip: _Códigos desenvolvidos para a cadeira de Programação Imperativa e Funcional da Cesar School._
 
+![Badge](https://img.shields.io/github/last-commit/anabxms/haskell?color=pink&style=flat-square) ![Badge](https://img.shields.io/github/license/anabxms/haskell?color=pink&style=flat-square) ![Badge](https://img.shields.io/github/issues/anabxms/haskell?color=pink&style=flat-square) ![Badge](https://img.shields.io/github/stars/anabxms/haskell?color=pink&style=flat-square)
 # Como utilizar
 
 Antes de iniciar, instale a plataforma do Haskell em seu computador. Se você estiver no linux, basta copiar a seguinte linha no seu terminal:
