@@ -37,12 +37,12 @@ Ok, one module loaded.
 ```
 [4,1]
 ```
-# Scripts
+# Programas
 | Programa | Descrição | Input | Output |
 | ------ | ------ | ----- | ----- |
 | aplly-funcs | Recebe uma lista de funçoes e um parâmetro e retorna uma lista das funções parcialmente aplicadas | `aplicador [(+),(-),(*),(/)] 8 2` | [10.0,6.0,16.0,4.0] |
 | check-sudoku | Checa se o sudoku inserido está correto, ou não | `checkSudoku [[6,2,4,5,3,9,1,8,7], [5,1,9,7,2,8,6,3,4], [8,3,7,6,1,4,2,9,5], [1,4,3,8,6,5,7,2,9], [9,5,8,2,4,7,3,6,1], [7,6,2,3,9,1,4,5,8], [3,7,1,9,5,6,8,4,2], [4,9,6,1,8,2,5,7,3], [2,8,5,4,7,3,9,1,6]]` | True |
-| concat-lists | Concatena duas listas sem duplicar elementos iguais | [abcd], [abg] | [abcdg] |
+| concat-lists | Concatena duas listas sem duplicar elementos iguais | `[abcd], [abg]` | [abcdg] |
 | join_and_map |  Realiza a operação com cada elemento correspondente das listas e aplicar a função a partir do mymap em toda a lista resultante | `joinAndMap (+) (abs) [1..10] [-10..(-1)]` | [9,7,5,3,1,1,3,5,7,9] |
 | odd_times | Recebe uma lista e retorna outra apenas com os elementos que repetem em uma quantidade ímpar de vezes | `oddTimes [1,2,3,6,1,3,6,6]` | [6,2] |
 | permute | Retorna todas as permutações da lista | `permute "aba"` | ["aab","aba","baa"] |
